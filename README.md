@@ -33,7 +33,7 @@ A full-stack Lost & Found management system developed using React.js, Spring Boo
 ![Report](screenshots/report.png)
 
 ### View Items Page
-![Items](screenshots/items.png)
+![Items](screenshots/view.png)
 
 ## Run Locally
 
